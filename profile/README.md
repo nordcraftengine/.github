@@ -1,7 +1,5 @@
 # Welcome to Nordcraft
 
-![Nordcraft banner, featuring the Nordcraft logo against a snowy Nordic background](assets/nordcraft.png)
-
 Nordcraft is an open-source Web Development Engine that combines visual design tools, a front-end framework built on web standards, and full programming capabilities in a single platform.
 
 **Nordcraft is for web designers who want to deliver great experiences to their users.**
@@ -11,8 +9,6 @@ If you’re using Nordcraft in a product team, you get to skip that traditional 
 ## Learn more about Nordcraft
 
 Check out [What is Nordcraft?](https://youtu.be/rbBwuc_M8Vc) on Youtube to get an overview of the Web Development Engine, who Nordcraft is for, and what you can build with Nordcraft.
-
-[![What is Nordcraft on YouTube](assets/learn-nc-lesson-0.jpg)](https://youtu.be/rbBwuc_M8Vc)
 
 ## Get help using Nordcraft from the community
 
