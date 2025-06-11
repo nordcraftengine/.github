@@ -30,4 +30,4 @@ At Nordcraft, we are in the process of making the Web Development engine fully o
 
 ## What's next for Nordcraft?
 
-Our roadmap is public on GitHub: [Nordcraft Roadmap](https://github.com/orgs/nordcraftengine/projects/17). Let us know what you think about what's in progress by getting involved in the conversation.
+The [Nordcraft Roadmap](https://github.com/orgs/nordcraftengine/projects/17) is public on GitHub. Let us know what you think about what's in progress by getting involved in the conversation.
