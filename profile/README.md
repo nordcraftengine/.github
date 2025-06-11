@@ -14,7 +14,7 @@ Check out [What is Nordcraft?](https://youtu.be/rbBwuc_M8Vc) on Youtube to get a
 
 At Nordcraft, we're proud of our growing community where designers and developers are sharing their exciting projects built with Nordcraft.
 
-Join over 3k members in the Nordcraft Discord to keep up to date with new feature releases, ask for help, suggest improvements to the Nordcraft experience, and connect with other Nordcraft designers and developers.
+Join over 3k members in the [Nordcraft Discord](https://discord.gg/nordcraft) to keep up to date with new feature releases, ask for help, suggest improvements to the Nordcraft experience, and connect with other Nordcraft designers and developers.
 
 ## Get involved in Nordcraft open source
 
